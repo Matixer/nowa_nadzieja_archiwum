@@ -1,6 +1,6 @@
 # 100 ustaw Mentzena
 
-## Spis 100 ustaw Mentzena
+## Spis 100 ustaw Mentzena z Wideo
 
 1/100
 Ograniczenie aresztów tymczasowych
@@ -389,7 +389,7 @@ Ustawa wprowadzająca karę śmierci
 Ustawa zwiększająca zasadę obrony koniecznej
 [31:44]
 
-## Opis ustaw
+## Spis 100 ustaw Mentzena z bloga
 
 1. Edukacja domowa – zniesienie zbędnych utrudnień i wprowadzenie zwrotu kosztów.
 
@@ -403,7 +403,9 @@ Ustawa zmienia próg obligujący do płacenia daniny solidarnościowej na 100 mi
 
 5. Zniesienie podatku od spadków.
 
-6. Podwyższenie limitu wejścia na VAT [[plik PDF](/Sto_Ustaw_Mentzena/6.-Podwyższenie-limitu-wejścia-na-VAT.pdf)]
+6. Podwyższenie limitu wejścia na VAT.
+
+[[plik PDF](/Sto_Ustaw_Mentzena/6.-Podwyższenie-limitu-wejścia-na-VAT.pdf)]
 
 7-9 [BRAK]
 

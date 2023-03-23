@@ -690,7 +690,7 @@ https://www.wykop.pl/wpis/43924373/100-ustaw-mentzena-1-100-ograniczenie-areszto
 
 ---
 
-[3] Kilka punktów z z bloga, na Wykop
+[3] Kilka punktów z bloga, na Wykop
 
 autor: CichyBob  
 data: 15.10.2019, 10:36:48  

@@ -673,8 +673,7 @@ Ustawa zwiększająca zasadę obrony koniecznej
 
 tytuł: Mentzen ZJADA BUT? Gdzie jest obiecane 100 PROJEKTÓW USTAW?  
 data: 13 wrz 2019  
-kanał: namzalezy.pl
-
+kanał: namzalezy.pl  
 https://www.youtube.com/watch?v=pPhDQSRrgD8
 
 [KOPIA wideo](/Sto_Ustaw_Mentzena/Mentzen_ZJADA_BUT.mp4)

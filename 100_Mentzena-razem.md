@@ -622,34 +622,25 @@ Ustawa zwiększająca zasadę obrony koniecznej
 > 1. Edukacja domowa – zniesienie zbędnych utrudnień i wprowadzenie zwrotu kosztów.
 > 
 > Projekt znosi obecne ograniczenia dla edukacji domowej oraz przekazuje rodzicom 90% subwencji przypadającej na ucznia.
-
-??
-
+>
+>
 > 90. Urealnienie wyjawienia majątku w egzekucji komorniczej.
 > 
 > Projekt likwiduje dotychczasowe przesłanki zastosowania wyjawienia majątku takie jak bezskuteczność dotychczasowej egzekucji, uprawdopodobnienie jej przyszłej bezskuteczności lub kierowanie do dłużnika dodatkowych wezwań przez wierzyciela. Zastąpione one zostają jedną, ujętą w bardzo prosty sposób przesłanką – niespełnieniem zasądzonego świadczenia w czasie
-
-??
-
+>
 > 102. Legalizacja obecności dzieci na drodze
 > 
 > Art. 89 Kodeksu wykroczeń w swoim obecnym brzmieniu prowadzi, według literalnej wykładni do zakazu przebywania małoletniego na drodze publicznej i torach pojazdu szynowego. Przepis zakazuje zatem m.in. prowadzenia małoletniego do lat 7 za rękę po chodniku, przewożenia go samochodem, dopuszczania do tego, aby przeszedł przez tory pojazdu szynowego etc. Jest to stan absurdalny. Ustawa karna powinna w sposób precyzyjny określać zakres zakazu i nie może wymuszać „domyślania się” przez adresatów norm prawnych, że w rzeczywistości zakaz jest węższy niż ten, który wynika z literalnej wykładni. Stąd potrzeba dodania uwagi, że dopuszczenie do przebywania małoletniego poniżej lat 7 w ww. miejscach stanowi wykroczenie tylko, jeżeli jest on pozostawiony bez nadzoru osoby, która ukończyła lat 13. 
-
-??
-
+>
 > 103. Ustawa o władzy rodzicielskiej.
 > 
 > Ochrona rodziny wymaga ograniczenia możliwości arbitralnego i pozbawionego adekwatnych podstaw odbierania dzieci z rodzin przez organy państwowe. Projekt ma za zadanie wyjść tej potrzebie naprzeciw poprzez wprowadzenie wymogu, aby wszelkie ingerencje we władze rodzicielską wymagały jednomyślnej zgody sędziego zawodowego i sześciu ławników orzekających w sprawie.
-
-??
-
+>
 > 104. Wprowadzenie możliwości zawarcia nierozerwalnego małżeństwa.
 > 
 > Projekt wprowadza możliwość złożenia Kierownikowi Urzędu Stanu Cywilnego przed zawarciem małżeństwa nieodwołalnego oświadczenia o uzależnieniu możliwości rozwodu od zgody biskupa diecezjalnego. W przypadku złożenia takiego oświadczenia dopuszczalność rozwodu
 > w sądzie rodzinnym małżeństw zawartych w Kościele Katolickim zależeć będzie od zgody biskupa diecezjalnego kierującego diecezją, na terenie której zawarto małżeństwo. W praktyce będzie to oznaczało, że u małżeństw objętych oświadczeniem nie będzie możliwy rozwód bez uprzedniego stwierdzenia nieważności małżeństwa w procesie kanonicznym, gdyż tylko po takim wyroku kanonicznym biskup będzie miał w sumieniu prawo udzielić wymaganej zgody.
-
-??
-
+>
 > 2-3  
 > 7-9  
 > 11-12  

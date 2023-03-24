@@ -170,6 +170,8 @@ Uchylenie ustawy 1066 (pobyt obcych wojsk na terytorium Polski)
 Ustawa o wykonywaniu działalności gospodarczej związanej z wytwarzaniem, obrotem bronią i amunicją
 [17:37]
 
+> ?. Ustawa o handlu bronią.
+
 29/100
 Zniesienie akcyzy z papierosów elektronicznych
 [17:56]
@@ -276,6 +278,8 @@ Ograniczenie daniny solidarnościowej
 Zmiana w Konstytucji - wprowadzenie obligatoryjnych referendów po zebraniu odpowiedniej liczby podpisów przez obywateli. Referenda będą wiążące.
 [21:11]
 
+> ?. Obligatoryjne i wiążące referenda.
+
 45/100
 Dekryminalizacja środków odurzających
 [21:33]
@@ -365,6 +369,8 @@ Ustawa o ochronie życia dziecka poczętego
 > 10. Zwiększenie ochrony życia i rodziny
 > 
 > Konstytucyjne zapewnienie ochrony życia poczętego, obrony koniecznej i prawa do broni. Ograniczenie ingerencji władz w wybór ścieżki zawodowej oraz ingerencji w rodzinę. Zwiększenie możliwości karania przestępców.
+> 
+> ?. Ochrona życia poczętego.
 
 
 63/100
@@ -390,6 +396,8 @@ Uchylenie zakazu reklamy alkoholu
 67/100
 Ustawa o broni i amunicji
 [25:02]
+
+> ?. Ustawa o broni i amunicji.
 
 68/100
 Prywatyzacja mediów publicznych
@@ -714,3 +722,12 @@ https://kin-rchristusrex.blogspot.com/2019/10/magorzata-jarosz-ustawy-mentzena-p
 
 
 ---
+
+[6] Artykuł oparty o blog, bez numeracji, same niektóre tytuły
+
+tytuł: Mentzen przygotował sto pomysłów na ustawy. Oto najciekawsze punkty!  
+data: 25 września 2019  
+autor: Mateusz Bąk  
+http://www.chillitorun.pl/news/mentzen-przygotowal-sto-pomyslow-na-ustawy-oto-najciekawsze-punkty/
+
+[[KOPIA HTML](/Sto_Ustaw_Mentzena/Mentzen_Oto_najciekawsze_punkty!_ChilliToruń.html)]

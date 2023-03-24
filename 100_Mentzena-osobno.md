@@ -641,3 +641,11 @@ Ochrona rodziny wymaga ograniczenia możliwości arbitralnego i pozbawionego ade
 
 Projekt wprowadza możliwość złożenia Kierownikowi Urzędu Stanu Cywilnego przed zawarciem małżeństwa nieodwołalnego oświadczenia o uzależnieniu możliwości rozwodu od zgody biskupa diecezjalnego. W przypadku złożenia takiego oświadczenia dopuszczalność rozwodu
 w sądzie rodzinnym małżeństw zawartych w Kościele Katolickim zależeć będzie od zgody biskupa diecezjalnego kierującego diecezją, na terenie której zawarto małżeństwo. W praktyce będzie to oznaczało, że u małżeństw objętych oświadczeniem nie będzie możliwy rozwód bez uprzedniego stwierdzenia nieważności małżeństwa w procesie kanonicznym, gdyż tylko po takim wyroku kanonicznym biskup będzie miał w sumieniu prawo udzielić wymaganej zgody.
+
+?. Ochrona życia poczętego.
+
+?. Obligatoryjne i wiążące referenda.
+
+?. Ustawa o handlu bronią.
+
+?. Ustawa o broni i amunicji.

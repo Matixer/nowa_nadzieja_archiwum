@@ -235,7 +235,7 @@ Podwyższenie limitu wejścia na VAT z 200 tys. zł do 400 tys. zł
 
 > 6. Podwyższenie limitu wejścia na VAT.
 > 
-> [[plik PDF](/Sto_Ustaw_Mentzena/6.-Podwyższenie-limitu-wejścia-na-VAT.pdf)]
+> [[PLIK PDF](/Sto_Ustaw_Mentzena/6.-Podwyższenie-limitu-wejścia-na-VAT.pdf)]
 
 40/100
 Zmniejszenie obowiązkowych składek na ZUS (6-krotne dla przedsiębiorców)
@@ -667,7 +667,7 @@ data: 13 wrz 2019
 kanał: namzalezy.pl  
 https://www.youtube.com/watch?v=pPhDQSRrgD8
 
-[KOPIA wideo](/Sto_Ustaw_Mentzena/Mentzen_ZJADA_BUT.mp4)
+[[KOPIA Wideo](/Sto_Ustaw_Mentzena/Mentzen_ZJADA_BUT.mp4)]
 
 ---
 
@@ -677,7 +677,7 @@ autor: jasieq91
 data: 17.09.2019, 23:06:14  
 https://www.wykop.pl/wpis/43924373/100-ustaw-mentzena-1-100-ograniczenie-aresztow-tym/
 
-[KOPIA HTML](/Sto_Ustaw_Mentzena/Spis_100_ustaw_Mentzena_1_100_Ograniczenie_jasieq91_Wykop.pl.html)
+[[KOPIA HTML](/Sto_Ustaw_Mentzena/Spis_100_ustaw_Mentzena_1_100_Ograniczenie_jasieq91_Wykop.pl.html)]
 
 ---
 
@@ -687,8 +687,8 @@ autor: CichyBob
 data: 15.10.2019, 10:36:48  
 https://wykop.pl/wpis/44634723/czytam-sobie-te-100-ustaw-mentzena-pomijajac-fakt-/
 
-[KOPIA HTML](/Sto_Ustaw_Mentzena/czytam_sobie_te_100_ustaw_Mentzena_CichyBob_Wykop.pl.html
-)
+[[KOPIA HTML](/Sto_Ustaw_Mentzena/czytam_sobie_te_100_ustaw_Mentzena_CichyBob_Wykop.pl.html
+)]
 
 ---
 
@@ -698,19 +698,19 @@ tytuł: Małgorzata Jarosz: Ustawy Mentzena pod lupą (cz. I)
 https://kierunki.info.pl/malgorzata-jarosz-ustawy-mentzena-pod-lupa-cz-i/  
 https://kin-rchristusrex.blogspot.com/2019/10/magorzata-jarosz-ustawy-mentzena-pod.html
 
-[KOPIA HTML](/Sto_Ustaw_Mentzena/Małgorzata_Jarosz_Ustawy_Mentzena_pod_lupą_(cz._I).html)
+[[KOPIA HTML](/Sto_Ustaw_Mentzena/Małgorzata_Jarosz_Ustawy_Mentzena_pod_lupą_(cz._I).html)]
 
 tytuł: Małgorzata Jarosz: Ustawy Mentzena pod lupą (cz. II)  
 https://kierunki.info.pl/malgorzata-jarosz-ustawy-mentzena-pod-lupa-cz-ii/  
 https://kin-rchristusrex.blogspot.com/2019/10/magorzata-jarosz-ustawy-mentzena-pod_27.html
 
-[KOPIA HTML](/Sto_Ustaw_Mentzena/Małgorzata_Jarosz_Ustawy_Mentzena_pod_lupą_(cz._II).html)
+[[KOPIA HTML](/Sto_Ustaw_Mentzena/Małgorzata_Jarosz_Ustawy_Mentzena_pod_lupą_(cz._II).html)]
 
 ---
 
 [5] Blog i The Wayback Machine
 
-[Folder KOPIE HTML](/Sto_Ustaw_Mentzena/podstrony)
+[[Folder KOPIE HTML](/Sto_Ustaw_Mentzena/podstrony)]
 
 
 ---

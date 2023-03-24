@@ -405,7 +405,7 @@ Ustawa zmienia próg obligujący do płacenia daniny solidarnościowej na 100 mi
 
 6. Podwyższenie limitu wejścia na VAT.
 
-[[plik PDF](/Sto_Ustaw_Mentzena/6.-Podwyższenie-limitu-wejścia-na-VAT.pdf)]
+[[PLIK PDF](/Sto_Ustaw_Mentzena/6.-Podwyższenie-limitu-wejścia-na-VAT.pdf)]
 
 7-9 [BRAK]
 

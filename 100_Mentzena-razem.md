@@ -1,7 +1,7 @@
 # 100 ustaw Mentzena
 
 Połączyłem kilka [źródeł](#źródła).  
-Punktem odniesienia jest [film](https://www.youtube.com/watch?v=pPhDQSRrgD8), gdzie numeracja różni się od tej z blogu Mentzena, bo Menzen wymienia swoje ustawy w filmie w sposób nieuporządkowany.  
+Punktem odniesienia jest [film](https://www.youtube.com/watch?v=pPhDQSRrgD8), gdzie numeracja różni się od tej z blogu Mentzena, bo Mentzen wymienia swoje ustawy w filmie w sposób nieuporządkowany.  
 Są tutaj liczne braki, zdarzają się tylko początki opisów. Do czterdziestu ośmiu ustaw, nie ma nawet tytułów.  
 Pełną ustawę w pliku PDF, znalazłem tylko jedną. 
  

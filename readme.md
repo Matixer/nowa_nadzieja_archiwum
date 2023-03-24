@@ -28,7 +28,7 @@ KNP program i projekt konstytucji.
 https://knp.org.pl/program [[KOPIA HTML](/program/Kongres_Nowej_Prawicy-program.html)]  
 https://knp.org.pl/projekt-konstytucji [[KOPIA PDF](/program/projekt-konstytucji-michalkiewicza.pdf)] [[KOPIA HTML](/program/Kongres_Nowej_Prawicy-konstytucja.html)]
 
-Deklaracja ideowa URP.  
+Deklaracja ideowa UPR.  
 https://www.upr.org.pl/index.php/o-upr-2/deklaracja-ideowa/ [[KOPIA HTML](/program/Deklaracja_ideowa_-_Unia_Polityki_Realnej.html)]
 
 Konstytucja Stanisława Michalkiewicza z 1994 roku.  

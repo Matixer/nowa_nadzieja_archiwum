@@ -62,4 +62,4 @@ Macie coś więcej? Na przykład Program UPR też byłby mile widziany.
 
 ---
 
-[Konfederacja](100_Mentzena-osobno.md)
+[Konfederacja](Konfederacja.md)

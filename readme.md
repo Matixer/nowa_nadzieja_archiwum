@@ -149,16 +149,19 @@ https://konfederacja.pl/po-stronie-polski/
 
 [[KOPIA PDF](/konfederacja/program/Po-Stronie-Polski.pdf)]
 
+Program dla Polski po lockdownie  
 Polska Na Nowo 2021  
 https://konfederacja.pl/polska-na-nowo/
 
 [[KOPIA PDF](/konfederacja/program/Konfederacja_PolskaNaNowo.pdf)]
 
-Tezy Konstytucyjne Konfederacji | Nowy Porządek 2020  
+Tezy Konstytucyjne Konfederacji  
+Nowy Porządek 2020  
 https://konfederacja.pl/nowy-porzadek/
 
 [[KOPIA PDF](/konfederacja/program/Bosak2020_NowyPorzadek.pdf)]
 
+Program Konfederacji  
 Polska dla Ciebie 2019   
 https://konfederacja.pl/program/
 

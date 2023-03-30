@@ -58,8 +58,8 @@ Macie coś więcej? Na przykład Program UPR też byłby mile widziany.
 ---
 
 100 Ustaw Mentzena - [razem](100_Mentzena-razem.md)  
-100 Ustaw Mentzena - [osobno](100_Mentzena-osobno.md)
-Alternatywna lista w Google Docs - [[link](https://docs.google.com/document/d/1ThSXcgK7BfkkvpQ-JrQCeP4iMAk6SwpEMRZC-aqNyAc/edit#)]
+100 Ustaw Mentzena - [osobno](100_Mentzena-osobno.md)  
+Alternatywna lista w Google Docs - [[link](https://docs.google.com/document/d/1ThSXcgK7BfkkvpQ-JrQCeP4iMAk6SwpEMRZC-aqNyAc/edit#)] | [[Kopia PDF](</Sto_Ustaw_Mentzena/100 ustaw Sławomira Mentzena - alternatywna lista.pdf>)]
 
 ---
 
